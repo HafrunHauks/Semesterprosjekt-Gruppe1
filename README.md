@@ -4,3 +4,4 @@
 
 test endringene
 <img width="498" height="204" alt="image" src="https://github.com/user-attachments/assets/c59b4aba-0737-4052-b834-a846a87bca8f" />
+asdfawd
