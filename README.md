@@ -57,8 +57,9 @@ Under **Issues** fanen, velg knappen **New Issue**.
 Lim inn videoen inn i **Write** boksen, eller dra den inn.  Vent mens videoen blir lastet opp i skyet:
 <img width="1216" height="429" alt="image" src="https://github.com/user-attachments/assets/2d8ba140-0e28-4e7a-83f0-9d042c6932fa" />
 
-Etter at den er ferdig lastet opp, trykk **Create** knappen nederst:
-<img width="1292" height="866" alt="image" src="https://github.com/user-attachments/assets/7640d996-3f9a-4e84-bf13-94543fb89385" />
+Velg og skriv en tittel i **Title** feltet, og etter at den er ferdig lastet opp, trykk **Create** knappen nederst:
+<img width="1491" height="881" alt="image" src="https://github.com/user-attachments/assets/f291b6ed-3c16-4154-9884-10214a81ab6c" />
+
 
 
 
