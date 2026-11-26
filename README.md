@@ -68,11 +68,12 @@ Der under kopier linken som vises i **Write** boksen:
 
 
 Og lim inn linken her i Readme coden:
-[https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1](https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1#issue-6627002163)
+https://github.com/user-attachments/assets/045ffc07-507d-49c4-a386-03f1bbbdf1c5
 
 Hvis videolinken er limt med mellomrom overnfor og under vises videon slik at den kan spilles direkte i readme:
 
-[https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1](https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1#issue-6627002163)
+https://github.com/user-attachments/assets/045ffc07-507d-49c4-a386-03f1bbbdf1c5
 
-Hvis du skriver videolinken i paranteser (uten mellomrom), og tekst foran i firkantet paranteser, så blir denne teksten link teksten:
-[Tekst for link i firkantet parantese]([https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1](https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1#issue-6627002163))
+
+Hvis du skriver tekst foran i firkantet paranteser og videolinken i vanlige paranteser (uten mellomrom), så blir det til tekst med link:
+[Tekst for link i firkantet parantese](https://github.com/user-attachments/assets/045ffc07-507d-49c4-a386-03f1bbbdf1c5)
