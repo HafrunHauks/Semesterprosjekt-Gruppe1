@@ -45,8 +45,8 @@ Bare lim inn bilden her, og da genereres html koden automatisk for å vise den:
 <img width="215" height="137" alt="image" src="https://github.com/user-attachments/assets/5a13d8f3-4a46-40e0-a5e5-4c53ccdc0af0" />
 
 
-<img width="107" height="78" alt="image" src="https://github.com/user-attachments/assets/9906ca59-5918-418a-a210-594c08cfb365" />
+# Video
 
-test endringene
-<img width="498" height="204" alt="image" src="https://github.com/user-attachments/assets/c59b4aba-0737-4052-b834-a846a87bca8f" />
-asdfawd
+Velg Issues fanen:
+<img width="1628" height="372" alt="image" src="https://github.com/user-attachments/assets/c12d541e-d210-4fbd-bcbf-4f5632924b72" />
+
