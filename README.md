@@ -60,8 +60,9 @@ Lim inn videoen inn i **Write** boksen, eller dra den inn.  Vent mens videoen bl
 Velg og skriv en tittel i **Title** feltet, og etter at den er ferdig lastet opp, trykk **Create** knappen nederst:
 <img width="1491" height="881" alt="image" src="https://github.com/user-attachments/assets/f291b6ed-3c16-4154-9884-10214a81ab6c" />
 
-Velg **Copy link** øverst i hjørnet:
+Velg **Copy link** øverst i hjørnet (ser ut som to bokser på topp av hverandre):
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/31e9dd6e-f924-41df-9f80-1fbab5d83f08" />
 
-
+Og lim inn linken her i Readme coden:
+https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1
 
