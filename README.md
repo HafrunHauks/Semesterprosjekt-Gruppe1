@@ -4,7 +4,7 @@ Vanlig tekst har ikke noen symbol foran.
 For å få ny linje må være en "tom" linje mellom, eller blir teksten bare slått sammen med teksten ovenfor.  
 
 Her får vi ny linje.
-Men her får vi ikke en ny linje, siden det er ikke mellomrom i Edit.  
+Men her får vi ikke en ny linje, siden det er ikke mellomrom i coden.  
 
 # Tittel har en hashtagger foran
 
@@ -15,8 +15,8 @@ Men her får vi ikke en ny linje, siden det er ikke mellomrom i Edit.
 
 # Bold tekst
 
-**Bold tekst har dobbelsjerne på hver sin side av det som skal bli bold***.  
-Men legg merke til at det kan IKKE være mellomrom etter de første stjernene, eller før de som er bakerst.
+**Bold tekst har dobbelsjerne på hver sin side av det som skal bli bold**.  
+** Men legg merke til at det kan IKKE være mellomrom etter de første stjernene, eller før de som er bakerst, dette blir derfor ikke bold. **
 
 
 # Lister
