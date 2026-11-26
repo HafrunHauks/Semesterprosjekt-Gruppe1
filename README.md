@@ -60,8 +60,9 @@ Lim inn videoen inn i **Write** boksen, eller dra den inn.  Vent mens videoen bl
 Velg og skriv en tittel i **Title** feltet, og etter at den er ferdig lastet opp, trykk **Create** knappen nederst:
 <img width="1491" height="881" alt="image" src="https://github.com/user-attachments/assets/f291b6ed-3c16-4154-9884-10214a81ab6c" />
 
-Velg de tre punktene og derunder velg **Copy link** i listen som kommer opp:
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/c1bd09c6-0045-4d2d-900b-172ca7e962d4" />
+For å få linken, velg de tre punkene og **Edit** i Issue:
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/43c092c0-6ddf-4f8f-9413-74a362c5ca78" />
+
 
 
 Og lim inn linken her i Readme coden:
