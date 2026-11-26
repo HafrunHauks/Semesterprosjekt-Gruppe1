@@ -50,3 +50,6 @@ Bare lim inn bilden her, og da genereres html koden automatisk for å vise den:
 Velg Issues fanen:
 <img width="1628" height="372" alt="image" src="https://github.com/user-attachments/assets/c12d541e-d210-4fbd-bcbf-4f5632924b72" />
 
+Under Issues, velg knappen "New Issue"
+<img width="1616" height="404" alt="image" src="https://github.com/user-attachments/assets/ef691267-fcf7-413e-a061-f5f9bcf444ee" />
+
