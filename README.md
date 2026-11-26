@@ -6,11 +6,11 @@ For å få ny linje må være en "tom" linje mellom, eller blir teksten bare sl�
 Her får vi ny linje.
 Men her får vi ikke en ny linje, siden det er ikke mellomrom i coden.  
 
-# Tittel har en hashtagger foran
+# Tittel har en hashtagg og mellomrom foran teksten
 
-## Underittel har to hashtagger foran
+## Underittel har to hashtagger og mellomrom foran teksten
 
-### Underundertittel har tre hashtagger foran
+### Underundertittel har tre hashtagger og mellomrom foran teksten
 
 
 # Bold og itialiansk tekst
@@ -45,7 +45,7 @@ Bare lim inn bilden her, og da genereres html koden automatisk for å vise den:
 
 <img width="215" height="137" alt="image" src="https://github.com/user-attachments/assets/5a13d8f3-4a46-40e0-a5e5-4c53ccdc0af0" />
 
-#Video
+# Video
 
 ## Lag video link
 
