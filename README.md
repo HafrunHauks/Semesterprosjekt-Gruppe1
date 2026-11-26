@@ -56,3 +56,7 @@ Under **Issues** fanen, velg knappen **New Issue**.
 
 Lim inn videoen inn i **Write** boksen, eller dra den inn.  Vent mens videoen blir lastet opp i skyet:
 <img width="1216" height="429" alt="image" src="https://github.com/user-attachments/assets/2d8ba140-0e28-4e7a-83f0-9d042c6932fa" />
+
+Etter at den er ferdig lastet opp, trykk **Last opp** knappen nederst:
+<img width="1292" height="866" alt="image" src="https://github.com/user-attachments/assets/7640d996-3f9a-4e84-bf13-94543fb89385" />
+
