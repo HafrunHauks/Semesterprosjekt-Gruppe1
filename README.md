@@ -13,11 +13,12 @@ Men her får vi ikke en ny linje, siden det er ikke mellomrom i coden.
 ### Underundertittel har tre hashtagger foran
 
 
-# Bold tekst
+# Bold og itialiansk tekst
 
 **Bold tekst har dobbelsjerne på hver sin side av det som skal bli bold**.  
 ** Men legg merke til at det kan IKKE være mellomrom etter de første stjernene, eller før de som er bakerst, dette blir derfor ikke bold. **
 
+*Italiansk tekst har en stjerne i start og slutt, uten mellomrom.*
 
 # Lister
 
@@ -53,3 +54,5 @@ Velg **Issues** fanen:
 Under **Issues** fanen, velg knappen **New Issue**.
 <img width="1616" height="404" alt="image" src="https://github.com/user-attachments/assets/ef691267-fcf7-413e-a061-f5f9bcf444ee" />
 
+Lim inn videoen inn i **Tekst** fanen 
+<img width="1216" height="429" alt="image" src="https://github.com/user-attachments/assets/2d8ba140-0e28-4e7a-83f0-9d042c6932fa" />
