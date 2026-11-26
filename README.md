@@ -63,6 +63,8 @@ Velg og skriv en tittel i **Title** feltet, og etter at den er ferdig lastet opp
 For å få linken, velg de tre punkene og **Edit** i Issue:
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/43c092c0-6ddf-4f8f-9413-74a362c5ca78" />
 
+Der under kopier linken som vises i **Write** boksen:
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0afeabea-802c-4dcd-9a74-a4c639c2898b" />
 
 
 Og lim inn linken her i Readme coden:
