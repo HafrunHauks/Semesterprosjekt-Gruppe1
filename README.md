@@ -45,8 +45,11 @@ Bare lim inn bilden her, og da genereres html koden automatisk for å vise den:
 
 <img width="215" height="137" alt="image" src="https://github.com/user-attachments/assets/5a13d8f3-4a46-40e0-a5e5-4c53ccdc0af0" />
 
+#Video
 
-# Video
+## Lag video link
+
+Du kan alltid bruke en link til YouTube video, men du kan også lage videoen her på Github:
 
 Velg **Issues** fanen:
 <img width="1628" height="372" alt="image" src="https://github.com/user-attachments/assets/c12d541e-d210-4fbd-bcbf-4f5632924b72" />
@@ -57,23 +60,23 @@ Under **Issues** fanen, velg knappen **New Issue**.
 Lim inn videoen inn i **Write** boksen, eller dra den inn.  Vent mens videoen blir lastet opp i skyet:
 <img width="1216" height="429" alt="image" src="https://github.com/user-attachments/assets/2d8ba140-0e28-4e7a-83f0-9d042c6932fa" />
 
-Velg og skriv en tittel i **Title** feltet, og etter at den er ferdig lastet opp, trykk **Create** knappen nederst:
+Velg og skriv en tittel i **Title** feltet.  Hvis du kopierer linken her etter at videoen er ferdig lastet opp, sparer du litt arbeid.  Trykk **Create** knappen nederst (etter du har kopiert linken som vises i write feltet):
 <img width="1491" height="881" alt="image" src="https://github.com/user-attachments/assets/f291b6ed-3c16-4154-9884-10214a81ab6c" />
 
-For å få linken, velg de tre punkene og **Edit** i Issue:
+Hvis du har ikke kopiert linken fra **Write** boksen i skrittet her ovenfør, så kan du få linken med å velge de tre punkene og **Edit** i Issue:
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/43c092c0-6ddf-4f8f-9413-74a362c5ca78" />
 
 Der under kopier linken som vises i **Write** boksen:
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0afeabea-802c-4dcd-9a74-a4c639c2898b" />
 
+## Vis videoen i Readme
 
-Og lim inn linken her i Readme coden:
+Lim inn linken her i Readme coden:
 https://github.com/user-attachments/assets/045ffc07-507d-49c4-a386-03f1bbbdf1c5
 
 Hvis videolinken er limt med mellomrom overnfor og under vises videon slik at den kan spilles direkte i readme:
 
 https://github.com/user-attachments/assets/045ffc07-507d-49c4-a386-03f1bbbdf1c5
-
 
 Hvis du skriver tekst foran i firkantet paranteser og videolinken i vanlige paranteser (uten mellomrom), så blir det til tekst med link:
 [Tekst for link i firkantet parantese](https://github.com/user-attachments/assets/045ffc07-507d-49c4-a386-03f1bbbdf1c5)
