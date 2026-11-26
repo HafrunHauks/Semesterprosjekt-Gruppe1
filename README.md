@@ -54,5 +54,5 @@ Velg **Issues** fanen:
 Under **Issues** fanen, velg knappen **New Issue**.
 <img width="1616" height="404" alt="image" src="https://github.com/user-attachments/assets/ef691267-fcf7-413e-a061-f5f9bcf444ee" />
 
-Lim inn videoen inn i **Tekst** fanen 
+Lim inn videoen inn i **Write** boksen: 
 <img width="1216" height="429" alt="image" src="https://github.com/user-attachments/assets/2d8ba140-0e28-4e7a-83f0-9d042c6932fa" />
