@@ -66,3 +66,9 @@ Velg **Copy link** øverst i hjørnet (ser ut som to bokser på topp av hverandr
 Og lim inn linken her i Readme coden:
 https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1
 
+Hvis videolinken er limt med mellomrom overnfor og under vises videon slik at den kan spilles direkte i readme:
+
+https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1
+
+Hvis du skriver videolinken i paranteser (uten mellomrom), og tekst foran i firkantet paranteser, så blir denne teksten link teksten:
+[Tekst for link i firkantet parantese](https://github.com/HafrunHauks/Semesterprosjekt-Gruppe1/issues/1)
